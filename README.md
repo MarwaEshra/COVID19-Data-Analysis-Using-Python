@@ -6,6 +6,6 @@ The course materials belong entirely to Coursera. Also, the COVID19 dataset, pub
 
 Course Objectives:
 ===================
-We are going to merge these two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
+Merge the two datasets to see if there is any relationship between the spread of the the virus in a country and how happy people are, living in that country.
 
 Great thanks to the course instructor: Ahmad Varasteh
